@@ -78,7 +78,6 @@ To update the LinkedIn feature you need:
 
 [Slideshow Presentation](https://www.canva.com/design/DAFU3R7ApWw/oDHPBrpo97m48tzAzDQlqg/view?utm_content=DAFU3R7ApWw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) <br>
 [YouTube Live Stream](https://www.youtube.com/watch?v=pKfX8RWpbQw)
-
-Git Pages [TBA]
+[FrontEnd GitHub Pages Deployment](https://samm96.github.io/sindano-landing-page/#/)
 
 
