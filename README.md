@@ -81,3 +81,7 @@ To update the LinkedIn feature you need:
 [FrontEnd GitHub Pages Deployment](https://samm96.github.io/sindano-landing-page/#/)
 
 
+
+
+https://user-images.githubusercontent.com/89945416/208578189-c5226119-7b84-4813-ba5a-9f04bd8a82f5.mp4
+
