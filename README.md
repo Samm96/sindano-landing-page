@@ -82,6 +82,7 @@ To update the LinkedIn feature you need:
 
 
 
+https://user-images.githubusercontent.com/89945416/208578340-300b4b39-346d-4b8a-b29b-adb854f2fd23.mp4
 
-https://user-images.githubusercontent.com/89945416/208578189-c5226119-7b84-4813-ba5a-9f04bd8a82f5.mp4
+
 
